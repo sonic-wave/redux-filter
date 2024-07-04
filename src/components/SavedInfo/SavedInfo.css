@@ -1,0 +1,5 @@
+.saved-info-container {
+    display: flex;
+    gap: 5px;
+    margin-top: 15px;
+}
